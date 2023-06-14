@@ -2247,7 +2247,7 @@
 
   (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" (layer "F.Cu")
     (tstamp df2cdd6a-f2bf-4a01-bb79-edefe5aabc7f)
-    (at 109.22 68.58)
+    (at 106.68 66.04)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (property "Sheetfile" "ESP-32.kicad_sch")
