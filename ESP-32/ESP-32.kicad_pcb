@@ -2544,7 +2544,7 @@
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_1x17_P2.54mm_Vertical_SMD_Pin1Left" (layer "F.Cu")
     (tstamp fcc66870-e98f-41a6-b11e-ea5935c94cc5)
-    (at 166.75 81.28)
+    (at 168.53 81.28)
     (descr "surface-mounted straight socket strip, 1x17, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated")
     (tags "Surface mounted socket strip SMD 1x17 2.54mm single row style1 pin1 left")
     (property "Sheetfile" "ESP-32.kicad_sch")
