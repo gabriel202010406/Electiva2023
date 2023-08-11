@@ -1,0 +1,27 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid e8fd27d5-830b-4dfe-ac2c-dbf2f8aeaabe)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "CON-DC-" (shape bidirectional) (at 100.33 55.88 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 9410c89a-6872-4dad-a1b8-a2dd3a7f9cbe)
+  )
+  (hierarchical_label "CON-L1" (shape bidirectional) (at 127 64.77 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 9e031307-65dc-4a61-b798-38a31b027204)
+  )
+  (hierarchical_label "CON-DC+" (shape bidirectional) (at 100.33 53.34 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid a8b5be2a-a66c-4301-8085-fdd127651e10)
+  )
+  (hierarchical_label "CON-NEUT" (shape bidirectional) (at 127 62.23 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid bd21f214-c59a-4d6a-835b-0eba3294cd66)
+  )
+)
